@@ -19,5 +19,3 @@ def turtle_traits(turtles)
     end
   end
 end
-
-puts turtle_traits(turtles)
