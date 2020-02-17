@@ -15,7 +15,7 @@ def turtle_traits(turtles)
         trait
       end
     elsif turtle[:traits].kind_of?(String)
-      trait
+      turtle[:traits]
     end
   end
 end
